@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: seashell;
+}
+.tittle{
+    font-family: monospace;
+    color: rgb(26, 8, 66);
+    width: 1000px;
+    padding: 20px 170px;
+    text-align: center;
+}
+.p1{ /*there we use the color rgb(red, green, blue)*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(245, 196, 64);
+    width: 1000px;
+    text-align: center;
+    padding: 20px 170px;
+    
+}
+.p2{/*there we use the HEX*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #1808ff;
+    width: 1000px;
+    text-align: center;
+    padding: 20px 170px;
+}
+.p3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(28, 24, 82);
+    text-align: center;
+    padding: 20px 170px;
+    width: 1000px;
+}
+.line{
+    color: rgb(245, 196, 64);
+}
+.finalphoto{
+    width: 100px;
+    padding: 0px 480px;
+    margin: 50px 30px;
+}
